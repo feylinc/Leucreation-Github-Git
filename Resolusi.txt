@@ -7,4 +7,6 @@ resolusi6
 
 Branch bekerja lah
 
-branch 1
+
+branch 2
+
