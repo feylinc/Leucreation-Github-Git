@@ -1,5 +1,3 @@
-resolusi1
-resolusi2
 resolusi3
 resolusi4
 resolusi5
